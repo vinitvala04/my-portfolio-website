@@ -51,7 +51,7 @@ This allows easy viewing and management of contact messages.
 ## 💻 How to Run the Project
 
 1. Download or clone the repository
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/vinitvala04/my-portfolio-website/tree/main
 
 2. Open the project folder
 3. Run **index.html** in your browser
